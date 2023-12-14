@@ -1,12 +1,4 @@
-![logo](Banner.png)
-
-<div style="text-align: right">
-    <img src="https://visitcount.itsvg.in/api?id=BisalKumar&icon=0&color=1" alt="Visit Count" />
-</div>
-
-# 💫 About Me:
-
-<img align = "right" alt ="coding" height="180" width ="350"  src = "Coding.gif">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical" />
 
 <!--
 **prashant0612/prashant0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
