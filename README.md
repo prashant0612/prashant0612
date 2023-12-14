@@ -1,4 +1,4 @@
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kritirajmaharana&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=prashant0612&show_icons=true&theme=radical" />
 
 <!--
 **prashant0612/prashant0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
